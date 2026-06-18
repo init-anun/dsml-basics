@@ -1,6 +1,6 @@
-# Data Science and Machine Learning (DSML) Basics
+# Data Science and Machine Learning (DSML) Fundamentals
 
-Welcome to the **Data Science and Machine Learning Basics** repository! This project serves as a comprehensive, structured curriculum designed to take you from a complete beginner to a confident practitioner in DSML using the Python scientific computing ecosystem.
+Welcome to the **Data Science and Machine Learning Fundamentals** repository! This project serves as a comprehensive, structured curriculum designed to take you from a complete beginner to a confident practitioner in DSML using the Python scientific computing ecosystem.
 
 Each module contains self-paced Jupyter Notebooks containing core concepts, code walkthroughs, visual demonstrations, and practical exercises.
 
@@ -12,8 +12,8 @@ To run these notebooks locally, it is recommended to set up an isolated Python e
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/init-anun/dsml-basics.git
-cd dsml-basics
+git clone https://github.com/init-anun/dsml-fundamentals.git
+cd dsml-fundamentals
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -81,5 +81,3 @@ If you are new to Data Science and Machine Learning, here is the recommended seq
 
 ---
 
-## 📝 License
-This project is open-source and available under the MIT License. Feel free to use these notebooks for learning and educational purposes!
